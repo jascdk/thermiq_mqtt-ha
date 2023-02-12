@@ -152,10 +152,10 @@ reg_id = {
 }
 
 # Translation dictionary
-#  ['en', 'se', 'fi', 'no', 'de'] 
+#  ['en', 'se', 'fi', 'no', 'de', 'dk'] 
 id_names = {  
-  'outdoor_t'                    : ['Outdoor temp.', 'Utomhustemp.', 'Ulkolämpötila', 'Utendørstemp.', 'Außentemperatur'],
-  'indoor_t'                     : ['Indoor temp.', 'Rumstemp. är', 'Huonelämpötila', 'Romstemp. er', 'Innentemperatur, Ist'],
+  'outdoor_t'                    : ['Outdoor temp.', 'Utomhustemp.', 'Ulkolämpötila', 'Utendørstemp.', 'Außentemperatur', 'Udendørs Temperatur'],
+  'indoor_t'                     : ['Indoor temp.', 'Rumstemp. är', 'Huonelämpötila', 'Romstemp. er', 'Innentemperatur, Ist', 'Indendørs Temperatur'],
   'indoor_dec_t'                 : ['Indoor temp., decimal', 'Rumstemp. är, decimal', 'Huonelämpötila, desimaalit', 'Romstemp. er, desimal', 'Innentemp., Ist, decimal'],
   'indoor_target_t'              : ['Indoor target temp.', 'Rumstemp. bör', 'Haluttu huonelämpötila', 'Romstemp. bør', 'Innentemperatur, Soll'],
   'indoor_target_dec_t'          : ['Indoor target temp., decimal', 'Rumstemp. bör, decimal', 'Haluttu huonelämpötila, desimaalit', 'Romstemp. bør, desimal', 'Innentemp., Soll, decimal'],
